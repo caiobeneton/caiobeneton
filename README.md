@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Caio Beneton</h1>
-<h3 align="center">A passionate Software Engineer from Brasil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/103117024/204897830-c42ad8dd-642a-4ea7-bbc5-d0a8c8033888.gif" alt="coding" width="400"></p>
 
